@@ -1,0 +1,11 @@
+package day1;
+public class Float {
+	class gopal
+	{
+	public static void main(String[] args)
+	{
+	float num=780.0f;
+	System.out.println(num);
+	}
+	}
+}

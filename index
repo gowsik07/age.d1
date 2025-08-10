@@ -1,0 +1,10 @@
+package day1;
+public class day1 {
+	class Gopal
+	{
+	public static void main(String gow[])
+	{
+	System.out.println(gow[2]);
+	}
+	}
+}
